@@ -1,0 +1,32 @@
+{
+  "name": "meudinhei.ro",
+  "version": "0.0.1",
+  "description": "Financial web app meudinhei.ro",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/egrigolon/meudinhei.ro.git"
+  },
+  "keywords": [
+    "web",
+    "app",
+    "nodejs",
+    "mongodb",
+    "financial"
+  ],
+  "author": "egrigolon@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egrigolon/meudinhei.ro/issues"
+  },
+  "homepage": "https://github.com/egrigolon/meudinhei.ro",
+  "engines": {
+    "node": ">= 0.12.2"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "consolidate": "^0.13.1",
+    "express": "^4.13.3",
+    "handlebars": "^3.0.3"
+  }
+}

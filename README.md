@@ -1,4 +1,4 @@
-meudinhei.ro
-============
+# meudinhei.ro
+Web App meudinhei.ro
 
-Brazilian financial web site
+API: https://github.com/egrigolon/api.meudinhei.ro
